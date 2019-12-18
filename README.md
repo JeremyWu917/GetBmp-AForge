@@ -1,5 +1,2 @@
 # GetBmp-AForge
-This is a sample that can get bmp image/video from windows camera.
-This project based on the three part AForge.
-This is CSharp progarm.
-Jeremy Wu 2019-12-18
+This is a sample that can get bmp images or videos from windows camera. This is CSharp progarm and based on the three part AForge.
